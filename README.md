@@ -1,2 +1,2 @@
-# testTaskFIrebase
+# react-test-task
 Created with CodeSandbox
